@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stephenony
+- 👋 Hi, I’m Stephen @stephenony
 - 👀 I’m interested in frontEnd Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects/Web designs 
