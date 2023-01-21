@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen @stephenony
-- 👀 I’m interested in frontEnd Development
+- 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects/Web designs 
 - 📫 How to reach me, Email: onyenuforostephen@gmail.com
